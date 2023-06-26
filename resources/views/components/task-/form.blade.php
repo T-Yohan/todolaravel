@@ -6,5 +6,5 @@
 </div>
 </form>
     @error('task')
-         <p class="text-red-700 p-1 font-serif">{{$message}}Vous devez saisir une tâche !</p>
+        <p class="text-red-700 p-1 font-serif">{{$message}}Vous devez saisir une tâche !</p>
     @enderror
